@@ -7,6 +7,7 @@
 //
 
 #import "GJRedView.h"
+#import "Masonry.h"
 
 @implementation GJRedView
 
